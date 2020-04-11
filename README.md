@@ -1,2 +1,2 @@
 #MyApp
-This is my app
+These are just some sample files for learning purpose
